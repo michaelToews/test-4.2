@@ -1,0 +1,28 @@
+#sdk: "/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.14"
+sdkversion: "4.1.0"
+name: "test-4.2"
+version: 1.0
+vendor: "rhomobile"
+build: "debug"
+applog: "rholog.txt"
+iphone:
+  configuration: "Release"
+  sdk: "iphonesimulator7.0"
+  provisionprofile: 
+  codesignidentity: "iPhone Developer"
+  entitlements: 
+  BundleIdentifier: "com.rhomobile.test-4.2"
+  BundleURLScheme: "test-4.2"
+wp8:
+  productid: "cae3d230-d3e3-0131-e7de-7831c1c374dc"
+android:
+  manifest_template: "AndroidManifest.erb"
+  version: "4.0.3"
+  capabilities: 
+wm: 
+#sdk: "MC3000c50b (ARMV4I)"
+#sdk: "Windows Mobile 6.5.3 Professional DTK (ARMV4I)"
+extensions:
+  - rhoconnect-client
+capabilities:
+  - gps

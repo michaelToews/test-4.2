@@ -1,0 +1,1063 @@
+Trhorunner
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Info.plist /Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist
+cPhaseScriptExecution Copy\ RhoBundle /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh
+cCpResource Default-LandscapeRight.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png
+cCpResource Resources/back_btn.png build/Release-iphonesimulator/rhorunner.app/back_btn.png
+cCpResource Resources/home_btn.png build/Release-iphonesimulator/rhorunner.app/home_btn.png
+cCpResource Resources/ESRI/BluePushpin.png build/Release-iphonesimulator/rhorunner.app/BluePushpin.png
+cCopyPlistFile /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Entitlements.plist Entitlements.plist
+cCpResource Resources/forward_btn.png build/Release-iphonesimulator/rhorunner.app/forward_btn.png
+cCpResource Default-LandscapeLeft.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png
+cCpResource icon144.png build/Release-iphonesimulator/rhorunner.app/icon144.png
+cCpResource icon57.png build/Release-iphonesimulator/rhorunner.app/icon57.png
+cCpResource icon152.png build/Release-iphonesimulator/rhorunner.app/icon152.png
+cCpResource Default@2x.png build/Release-iphonesimulator/rhorunner.app/Default@2x.png
+cCpResource iTunesArtwork build/Release-iphonesimulator/rhorunner.app/iTunesArtwork
+cCpResource Default-Portrait.png build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png
+cCpResource Default-PortraitUpsideDown.png build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png
+cCpResource Resources/ESRI/esri@2x.png build/Release-iphonesimulator/rhorunner.app/esri@2x.png
+cCpResource Resources/gears.png build/Release-iphonesimulator/rhorunner.app/gears.png
+cCpResource icon120.png build/Release-iphonesimulator/rhorunner.app/icon120.png
+cCpResource Default.png build/Release-iphonesimulator/rhorunner.app/Default.png
+cCpResource Default-568h@2x.png build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png
+cCpResource Default-Landscape.png build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png
+cCpResource icon60.png build/Release-iphonesimulator/rhorunner.app/icon60.png
+cCpResource icon72.png build/Release-iphonesimulator/rhorunner.app/icon72.png
+cCpResource icon76.png build/Release-iphonesimulator/rhorunner.app/icon76.png
+cCpResource Resources/ESRI/BluePushpin@2x.png build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png
+cCpResource icon114.png build/Release-iphonesimulator/rhorunner.app/icon114.png
+cCpResource Resources/ESRI/esri.png build/Release-iphonesimulator/rhorunner.app/esri.png
+cPhaseScriptExecution Move\ alerts\ to\ root\ of\ app /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.sh
+cProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o /Users/michaeltoews/workspace/test-4.2/project/iphone/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o /Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner normal i386
+cGenerateDSYMFile /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner
+cTouch /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/usr/lib/libiconv.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/ExternalAccessory.framework/ExternalAccessory
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libstdc++.dylib
+c00000000000000000000000000000000
+t2
+s0
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c0000000052A60F250000000000000176
+t1386614565
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005228F41500000000000003B5
+t1378415637
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005250C7FF00000000000001A0
+t1381025791
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000005221779F000000000047C980
+t1377925023
+s4704640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005250AE7300000000009040F0
+t1381019251
+s9453808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000005243C77600000000005838D0
+t1380173686
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000520B1C8E0000000000445870
+t1376459918
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000524CD9CC00000000000EC820
+t1380768204
+s968736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+c000000005230068F0000000000365370
+t1378879119
+s3560304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523BD46F000000000088C680
+t1379652719
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c00000000523FB68D0000000000008790
+t1379907213
+s34704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000521DA8D000000000002C78D0
+t1377675472
+s2914512
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005241245900000000004848F0
+t1380000857
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000524E488500000000001290B0
+t1380862085
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000524A44A30000000001DB9910
+t1380598947
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.0.dylib
+c00000000520B199200000000001D3590
+t1376459154
+s1914256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+c00000000520B1987000000000002B700
+t1376459143
+s177920
+
+N/Applications/Xcode.app/Contents/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS2.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000000000000000000000000000
+t2
+s0
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000005358359A0000000000688600
+t1398289818
+s6850048
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m
+c000000005398DEC50000000000000050
+t1402527429
+s80
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default-568h@2x.png
+c000000005398DEC50000000000015650
+t1402527429
+s87632
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default-Landscape.png
+c000000005398DEC50000000000011783
+t1402527429
+s71555
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default-LandscapeLeft.png
+c000000005398DEC50000000000011783
+t1402527429
+s71555
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default-LandscapeRight.png
+c000000005398DEC50000000000011783
+t1402527429
+s71555
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default-Portrait.png
+c000000005398DEC50000000000015F44
+t1402527429
+s89924
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default-PortraitUpsideDown.png
+c000000005398DEC50000000000015F44
+t1402527429
+s89924
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default.png
+c000000005398DEC50000000000015499
+t1402527429
+s87193
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Default@2x.png
+c000000005398DEC50000000000015499
+t1402527429
+s87193
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Entitlements.plist
+c000000005398DEC500000000000001B7
+t1402527429
+s439
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist
+c000000005398DEC50000000000000A89
+t1402527429
+s2697
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/BluePushpin.png
+c000000005398DEC50000000000000545
+t1402527429
+s1349
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/BluePushpin@2x.png
+c000000005398DEC50000000000001D4A
+t1402527429
+s7498
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/esri.png
+c000000005398DEC500000000000008FB
+t1402527429
+s2299
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/esri@2x.png
+c000000005398DEC500000000000012C2
+t1402527429
+s4802
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/back_btn.png
+c000000005398DEC50000000000000BD5
+t1402527429
+s3029
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/forward_btn.png
+c000000005398DEC50000000000000BCC
+t1402527429
+s3020
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/gears.png
+c000000005398DEC500000000000014FF
+t1402527429
+s5375
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/home_btn.png
+c000000005398DEC50000000000000DF2
+t1402527429
+s3570
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c
+c000000005398DED200000000000001BA
+t1402527442
+s442
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/build/Release-iphonesimulator/libRhodes.a
+c000000005398DF060000000001C53078
+t1402527494
+s29700216
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c
+c000000005398DED2000000000000010C
+t1402527442
+s268
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app
+t1402527495
+s1258
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM
+t2
+s0
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/BluePushpin.png
+t1402527494
+s1349
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png
+t1402527494
+s7498
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png
+t1402527494
+s87632
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png
+t1402527494
+s71555
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png
+t1402527494
+s71555
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png
+t1402527494
+s71555
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png
+t1402527494
+s89924
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png
+t1402527494
+s89924
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default.png
+t1402527494
+s87193
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default@2x.png
+t1402527494
+s87193
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Entitlements.plist
+t1402527494
+s168
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Info.plist
+t1402527494
+s1545
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/PkgInfo
+t1402527494
+s8
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/back_btn.png
+t1402527494
+s3029
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/esri.png
+t1402527494
+s2299
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/esri@2x.png
+t1402527494
+s4802
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/forward_btn.png
+t1402527494
+s3020
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/gears.png
+t1402527494
+s5375
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/home_btn.png
+t1402527494
+s3570
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/iTunesArtwork
+t1402527494
+s39069
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon114.png
+t1402527494
+s15130
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon120.png
+t1402527494
+s16903
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon144.png
+t1402527494
+s22141
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon152.png
+t1402527494
+s23197
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon57.png
+t1402527494
+s7056
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon60.png
+t1402527494
+s7397
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon72.png
+t1402527494
+s9248
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon76.png
+t1402527494
+s9909
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner
+t1402527495
+s9561300
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o
+t1402527494
+s73372
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o
+t1402527494
+s2344
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o
+t1402527494
+s2208
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o
+t1402527494
+s4208
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner.LinkFileList
+c000000005398DF060000000000000253
+t1402527494
+s595
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.sh
+c000000005398DF0600000000000001A7
+t1402527494
+s423
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh
+c000000005398DF060000000000000170
+t1402527494
+s368
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/iTunesArtwork
+c000000005398DEC5000000000000989D
+t1402527429
+s39069
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon114.png
+c000000005398DEC50000000000003B1A
+t1402527429
+s15130
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon120.png
+c000000005398DEC50000000000004207
+t1402527429
+s16903
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon144.png
+c000000005398DEC5000000000000567D
+t1402527429
+s22141
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon152.png
+c000000005398DEC50000000000005A9D
+t1402527429
+s23197
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon57.png
+c000000005398DEC50000000000001B90
+t1402527429
+s7056
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon60.png
+c000000005398DEC50000000000001CE5
+t1402527429
+s7397
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon72.png
+c000000005398DEC50000000000002420
+t1402527429
+s9248
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/icon76.png
+c000000005398DEC500000000000026B5
+t1402527429
+s9909
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/main.m
+c000000005398DEC50000000000000133
+t1402527429
+s307
+
+N/Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch
+c000000005398DEC50000000000000391
+t1402527429
+s913
+
+N/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch
+t1402527494
+s116828
+
+N/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch
+t1402527494
+s5356856
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8c130b861649b941^ec680c861649b941^---0#1#1#--18"Check dependencies36"B623E99E-53CA-4192-8C35-3BC22960F8A6-
+
+CCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o /Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424220294.331502
+e424220294.418585
+r1
+xCompileC
+xbuild/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.h
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/RhodesBaseDelegate.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/Rhodes.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/AppManager/AppManager.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/RhoMainView.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/SplashViewController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/RhoViewController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/LogOptionsController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/LogViewController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/DateTimePickerDelegate.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/RhoDelegate.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/DateTime.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/DateTimePickerViewController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/Camera.old/PickImageDelegate.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/Signature/SignatureDelegate.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/Signature/SignatureView.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/Signature/SignatureParam.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/Signature/SignatureViewController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/shared/api_generator/iphone/IMethodResult.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/NativeView/NVDelegate.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/NativeView/NVViewController.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/NetworkStatusMonitor.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/IPushNotificationsReceiver.h
+d/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.15/platform/iphone/Classes/IAppMessageReceiver.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m209"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o Classes/CApplicationDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler34f754861649b941^c3296b861649b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m0000000000000000^3954"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o Classes/CApplicationDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-generated-files.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-own-target-headers.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-all-target-headers.hmap -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-project-headers.hmap -iquoteRhodes -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include -I../shared -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources/i386 -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator -include /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch -MMD -MT dependencies -MF /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.d --serialize-diagnostics /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.dia -c /Users/michaeltoews/workspace/test-4.2/project/iphone/Classes/CApplicationDelegate.m -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o36"22C17284-D77B-4A2E-B0A5-6632C5F72327-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s424220294.330907
+e424220294.350362
+r1
+xCompileC
+xbuild/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c192"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o Rhodes/app_build_configs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerd1cf54861649b941^d9b159861649b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c0000000000000000^3677"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o Rhodes/app_build_configs.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -mios-simulator-version-min=6.0 -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-generated-files.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-own-target-headers.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-all-target-headers.hmap -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-project-headers.hmap -iquoteRhodes -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include -I../shared -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources/i386 -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator -include /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch -MMD -MT dependencies -MF /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.d --serialize-diagnostics /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.dia -c /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/app_build_configs.c -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o36"01F33FB2-C181-43CA-896E-CF0EEDF405D9-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s424220294.331102
+e424220294.347809
+r1
+xCompileC
+xbuild/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c178"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o Rhodes/extensions.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilerbedb54861649b941^890a59861649b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c0000000000000000^3635"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o Rhodes/extensions.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -mios-simulator-version-min=6.0 -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-generated-files.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-own-target-headers.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-all-target-headers.hmap -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-project-headers.hmap -iquoteRhodes -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include -I../shared -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources/i386 -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator -include /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch -MMD -MT dependencies -MF /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.d --serialize-diagnostics /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.dia -c /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/extensions.c -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o36"7B7A5B35-F068-495F-B5EF-C55019B8EB60-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o /Users/michaeltoews/workspace/test-4.2/project/iphone/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424220294.331337
+e424220294.352888
+r1
+xCompileC
+xbuild/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/michaeltoews/workspace/test-4.2/project/iphone/main.m169"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler12fb54861649b941^60585a861649b941^---0#0#1#-19%DVTDocumentLocation2@67"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/main.m0000000000000000^3842"CompileC build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-generated-files.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-own-target-headers.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-all-target-headers.hmap -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-project-headers.hmap -iquoteRhodes -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include -I../shared -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources/i386 -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator -include /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch -MMD -MT dependencies -MF /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.dia -c /Users/michaeltoews/workspace/test-4.2/project/iphone/main.m -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o36"730F5593-42C5-4328-8FD5-3E5DE593D65C-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCopyPlistFile /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Entitlements.plist Entitlements.plist
+s424220294.123054
+e424220294.125056
+r1
+xCopyPlistFile
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Entitlements.plist
+xEntitlements.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection23"Copy Entitlements.plist95"CopyPlistFile build/Release-iphonesimulator/rhorunner.app/Entitlements.plist Entitlements.plist2cbc1f861649b941^8a2220861649b941^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/Entitlements.plist0000000000000000^897"CopyPlistFile build/Release-iphonesimulator/rhorunner.app/Entitlements.plist Entitlements.plist    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copyPlist --convert binary1 --outdir /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app -- Entitlements.plist36"A3623D2F-731D-4FB9-949C-8776B462B5B7-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default-568h@2x.png build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png
+s424220294.129589
+e424220294.130959
+r1
+xCpResource
+xDefault-568h@2x.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png94"CpResource Default-568h@2x.png build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png5f6121861649b941^4ab721861649b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png0034eca5ddffdf42^1137"CpResource Default-568h@2x.png build/Release-iphonesimulator/rhorunner.app/Default-568h@2x.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default-568h@2x.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"73C1F3E1-7B6B-4CDA-B891-347C390DBA35-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default-Landscape.png build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png
+s424220294.130054
+e424220294.131140
+r1
+xCpResource
+xDefault-Landscape.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default-Landscape.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png98"CpResource Default-Landscape.png build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png486a21861649b941^e0d621861649b941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png0034eca5ddffdf42^1143"CpResource Default-Landscape.png build/Release-iphonesimulator/rhorunner.app/Default-Landscape.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default-Landscape.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"B9017EEF-E3A0-445C-A798-B2ACAE2A25B2-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default-LandscapeLeft.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png
+s424220294.124132
+e424220294.125536
+r1
+xCpResource
+xDefault-LandscapeLeft.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png106"CpResource Default-LandscapeLeft.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.pngf4df1f861649b941^427820861649b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png0034eca5ddffdf42^1155"CpResource Default-LandscapeLeft.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeLeft.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default-LandscapeLeft.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"3C680C0C-9012-4AFC-BAE1-D7958CAF617C-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default-LandscapeRight.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png
+s424220294.122321
+e424220294.124991
+r1
+xCpResource
+xDefault-LandscapeRight.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png108"CpResource Default-LandscapeRight.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png97711f861649b941^c72b20861649b941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png0034eca5ddffdf42^1158"CpResource Default-LandscapeRight.png build/Release-iphonesimulator/rhorunner.app/Default-LandscapeRight.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default-LandscapeRight.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"32632512-E4C0-4ED3-BC57-B86D5A4FB864-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default-Portrait.png build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png
+s424220294.127474
+e424220294.128693
+r1
+xCpResource
+xDefault-Portrait.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default-Portrait.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png96"CpResource Default-Portrait.png build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png40be20861649b941^0e1321861649b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png0034eca5ddffdf42^1140"CpResource Default-Portrait.png build/Release-iphonesimulator/rhorunner.app/Default-Portrait.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default-Portrait.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"01F10307-13E2-49C1-917B-0208C96C1BB6-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default-PortraitUpsideDown.png build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png
+s424220294.127724
+e424220294.129065
+r1
+xCpResource
+xDefault-PortraitUpsideDown.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png116"CpResource Default-PortraitUpsideDown.png build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png84d520861649b941^6a3421861649b941^---0#0#1#-19%DVTDocumentLocation2@135"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png0034eca5ddffdf42^1170"CpResource Default-PortraitUpsideDown.png build/Release-iphonesimulator/rhorunner.app/Default-PortraitUpsideDown.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default-PortraitUpsideDown.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"48B8928D-FF94-409E-88E4-0BAB6B834493-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default.png build/Release-iphonesimulator/rhorunner.app/Default.png
+s424220294.129209
+e424220294.130472
+r1
+xCpResource
+xDefault.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/rhorunner.app/Default.png78"CpResource Default.png build/Release-iphonesimulator/rhorunner.app/Default.png1d3e21861649b941^a9a521861649b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default.png0034eca5ddffdf42^1113"CpResource Default.png build/Release-iphonesimulator/rhorunner.app/Default.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"BAE940C0-C9F0-43D2-978A-DBE9603D8DE4-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Default@2x.png build/Release-iphonesimulator/rhorunner.app/Default@2x.png
+s424220294.127023
+e424220294.128290
+r1
+xCpResource
+xDefault@2x.png
+xbuild/Release-iphonesimulator/rhorunner.app/Default@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Release-iphonesimulator/rhorunner.app/Default@2x.png84"CpResource Default@2x.png build/Release-iphonesimulator/rhorunner.app/Default@2x.pngc1ac20861649b941^e8d920861649b941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Default@2x.png0034eca5ddffdf42^1122"CpResource Default@2x.png build/Release-iphonesimulator/rhorunner.app/Default@2x.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Default@2x.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"40BCA2F1-E4F2-404E-85D8-80D3E7ED1E31-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/ESRI/BluePushpin.png build/Release-iphonesimulator/rhorunner.app/BluePushpin.png
+s424220294.122741
+e424220294.124515
+r1
+xCpResource
+xResources/ESRI/BluePushpin.png
+xbuild/Release-iphonesimulator/rhorunner.app/BluePushpin.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Release-iphonesimulator/rhorunner.app/BluePushpin.png101"CpResource Resources/ESRI/BluePushpin.png build/Release-iphonesimulator/rhorunner.app/BluePushpin.pngbe831f861649b941^70ea1f861649b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/BluePushpin.png0034eca5ddffdf42^1155"CpResource Resources/ESRI/BluePushpin.png build/Release-iphonesimulator/rhorunner.app/BluePushpin.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/BluePushpin.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"FCE8C648-2D55-4251-A004-7E3327B30994-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/ESRI/BluePushpin@2x.png build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png
+s424220294.131656
+e424220294.133024
+r1
+xCpResource
+xResources/ESRI/BluePushpin@2x.png
+xbuild/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png107"CpResource Resources/ESRI/BluePushpin@2x.png build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png2ae121861649b941^d21b22861649b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png0034eca5ddffdf42^1164"CpResource Resources/ESRI/BluePushpin@2x.png build/Release-iphonesimulator/rhorunner.app/BluePushpin@2x.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/BluePushpin@2x.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"933AF96E-BE9C-4BF5-A8B5-3D1135723EE7-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/ESRI/esri.png build/Release-iphonesimulator/rhorunner.app/esri.png
+s424220294.132332
+e424220294.133455
+r1
+xCpResource
+xResources/ESRI/esri.png
+xbuild/Release-iphonesimulator/rhorunner.app/esri.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Copy build/Release-iphonesimulator/rhorunner.app/esri.png87"CpResource Resources/ESRI/esri.png build/Release-iphonesimulator/rhorunner.app/esri.pngb80222861649b941^b93422861649b941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/esri.png0034eca5ddffdf42^1134"CpResource Resources/ESRI/esri.png build/Release-iphonesimulator/rhorunner.app/esri.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/esri.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"A29A4A5B-0F8F-40A1-ADB1-2E5303F68962-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/ESRI/esri@2x.png build/Release-iphonesimulator/rhorunner.app/esri@2x.png
+s424220294.128177
+e424220294.129343
+r1
+xCpResource
+xResources/ESRI/esri@2x.png
+xbuild/Release-iphonesimulator/rhorunner.app/esri@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/rhorunner.app/esri@2x.png93"CpResource Resources/ESRI/esri@2x.png build/Release-iphonesimulator/rhorunner.app/esri@2x.png0ce920861649b941^d25621861649b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/esri@2x.png0034eca5ddffdf42^1143"CpResource Resources/ESRI/esri@2x.png build/Release-iphonesimulator/rhorunner.app/esri@2x.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/ESRI/esri@2x.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"DFFEECB9-612E-4A1A-930F-A3560E06531C-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/back_btn.png build/Release-iphonesimulator/rhorunner.app/back_btn.png
+s424220294.122436
+e424220294.125009
+r1
+xCpResource
+xResources/back_btn.png
+xbuild/Release-iphonesimulator/rhorunner.app/back_btn.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Release-iphonesimulator/rhorunner.app/back_btn.png90"CpResource Resources/back_btn.png build/Release-iphonesimulator/rhorunner.app/back_btn.pngb9711f861649b941^05fb1f861649b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/back_btn.png0034eca5ddffdf42^1136"CpResource Resources/back_btn.png build/Release-iphonesimulator/rhorunner.app/back_btn.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/back_btn.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"11C377A9-1C05-4A4C-944A-390DE61449FD-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/forward_btn.png build/Release-iphonesimulator/rhorunner.app/forward_btn.png
+s424220294.123323
+e424220294.125337
+r1
+xCpResource
+xResources/forward_btn.png
+xbuild/Release-iphonesimulator/rhorunner.app/forward_btn.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/Release-iphonesimulator/rhorunner.app/forward_btn.png96"CpResource Resources/forward_btn.png build/Release-iphonesimulator/rhorunner.app/forward_btn.png86ca1f861649b941^1b6620861649b941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/forward_btn.png0034eca5ddffdf42^1145"CpResource Resources/forward_btn.png build/Release-iphonesimulator/rhorunner.app/forward_btn.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/forward_btn.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"03A35D72-7ABE-494E-9B7B-8969E14DDF63-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/gears.png build/Release-iphonesimulator/rhorunner.app/gears.png
+s424220294.128461
+e424220294.129882
+r1
+xCpResource
+xResources/gears.png
+xbuild/Release-iphonesimulator/rhorunner.app/gears.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Release-iphonesimulator/rhorunner.app/gears.png84"CpResource Resources/gears.png build/Release-iphonesimulator/rhorunner.app/gears.png501721861649b941^076221861649b941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/gears.png0034eca5ddffdf42^1127"CpResource Resources/gears.png build/Release-iphonesimulator/rhorunner.app/gears.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/gears.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"48B3E04E-6513-4E35-B642-DEA07440A582-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource Resources/home_btn.png build/Release-iphonesimulator/rhorunner.app/home_btn.png
+s424220294.122567
+e424220294.125018
+r1
+xCpResource
+xResources/home_btn.png
+xbuild/Release-iphonesimulator/rhorunner.app/home_btn.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Release-iphonesimulator/rhorunner.app/home_btn.png90"CpResource Resources/home_btn.png build/Release-iphonesimulator/rhorunner.app/home_btn.png6b7f1f861649b941^c51c20861649b941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/home_btn.png0034eca5ddffdf42^1136"CpResource Resources/home_btn.png build/Release-iphonesimulator/rhorunner.app/home_btn.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/Resources/home_btn.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"B6CD7B26-0BC2-4F07-94FA-307735504074-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource iTunesArtwork build/Release-iphonesimulator/rhorunner.app/iTunesArtwork
+s424220294.127201
+e424220294.128388
+r1
+xCpResource
+xiTunesArtwork
+xbuild/Release-iphonesimulator/rhorunner.app/iTunesArtwork
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Release-iphonesimulator/rhorunner.app/iTunesArtwork82"CpResource iTunesArtwork build/Release-iphonesimulator/rhorunner.app/iTunesArtwork52b620861649b941^76fb20861649b941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/iTunesArtwork0034eca5ddffdf42^1119"CpResource iTunesArtwork build/Release-iphonesimulator/rhorunner.app/iTunesArtwork    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/iTunesArtwork /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"B49DFA0F-C5A6-4CB6-96EB-0C4683A5F1F1-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon114.png build/Release-iphonesimulator/rhorunner.app/icon114.png
+s424220294.132048
+e424220294.133299
+r1
+xCpResource
+xicon114.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon114.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/rhorunner.app/icon114.png78"CpResource icon114.png build/Release-iphonesimulator/rhorunner.app/icon114.png76fe21861649b941^842d22861649b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon114.png0034eca5ddffdf42^1113"CpResource icon114.png build/Release-iphonesimulator/rhorunner.app/icon114.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon114.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"DF7C6189-5108-4A19-9D94-D3435631624B-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon120.png build/Release-iphonesimulator/rhorunner.app/icon120.png
+s424220294.128802
+e424220294.130237
+r1
+xCpResource
+xicon120.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon120.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/rhorunner.app/icon120.png78"CpResource icon120.png build/Release-iphonesimulator/rhorunner.app/icon120.png622e21861649b941^128621861649b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon120.png0034eca5ddffdf42^1113"CpResource icon120.png build/Release-iphonesimulator/rhorunner.app/icon120.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon120.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"16AD3E3D-D5B6-43DB-AD6C-D8D2F69B7FC2-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon144.png build/Release-iphonesimulator/rhorunner.app/icon144.png
+s424220294.124374
+e424220294.126436
+r1
+xCpResource
+xicon144.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon144.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/rhorunner.app/icon144.png78"CpResource icon144.png build/Release-iphonesimulator/rhorunner.app/icon144.pngf91020861649b941^388620861649b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon144.png0034eca5ddffdf42^1113"CpResource icon144.png build/Release-iphonesimulator/rhorunner.app/icon144.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon144.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"2083EACA-C021-4222-85E7-42C22D4CF45A-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon152.png build/Release-iphonesimulator/rhorunner.app/icon152.png
+s424220294.126063
+e424220294.127112
+r1
+xCpResource
+xicon152.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon152.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphonesimulator/rhorunner.app/icon152.png78"CpResource icon152.png build/Release-iphonesimulator/rhorunner.app/icon152.pngc05f20861649b941^93a720861649b941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon152.png0034eca5ddffdf42^1113"CpResource icon152.png build/Release-iphonesimulator/rhorunner.app/icon152.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon152.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"F09A5015-02DB-4E1E-A298-F0F14776D155-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon57.png build/Release-iphonesimulator/rhorunner.app/icon57.png
+s424220294.124877
+e424220294.126486
+r1
+xCpResource
+xicon57.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphonesimulator/rhorunner.app/icon57.png76"CpResource icon57.png build/Release-iphonesimulator/rhorunner.app/icon57.png4d1520861649b941^429320861649b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon57.png0034eca5ddffdf42^1110"CpResource icon57.png build/Release-iphonesimulator/rhorunner.app/icon57.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon57.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"F63CA647-4F7F-4725-9EB0-9610BB2047A2-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon60.png build/Release-iphonesimulator/rhorunner.app/icon60.png
+s424220294.130523
+e424220294.131647
+r1
+xCpResource
+xicon60.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphonesimulator/rhorunner.app/icon60.png76"CpResource icon60.png build/Release-iphonesimulator/rhorunner.app/icon60.pngde8d21861649b941^d1e921861649b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon60.png0034eca5ddffdf42^1110"CpResource icon60.png build/Release-iphonesimulator/rhorunner.app/icon60.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon60.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"491B92C6-EF99-40D4-B3F5-F1A6D13AA9DF-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon72.png build/Release-iphonesimulator/rhorunner.app/icon72.png
+s424220294.130968
+e424220294.132201
+r1
+xCpResource
+xicon72.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphonesimulator/rhorunner.app/icon72.png76"CpResource icon72.png build/Release-iphonesimulator/rhorunner.app/icon72.png24b421861649b941^b5ff21861649b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon72.png0034eca5ddffdf42^1110"CpResource icon72.png build/Release-iphonesimulator/rhorunner.app/icon72.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon72.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"FB85A64E-E733-4191-9BFB-49E0CBF2BDE2-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CCpResource icon76.png build/Release-iphonesimulator/rhorunner.app/icon76.png
+s424220294.131312
+e424220294.132440
+r1
+xCpResource
+xicon76.png
+xbuild/Release-iphonesimulator/rhorunner.app/icon76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphonesimulator/rhorunner.app/icon76.png76"CpResource icon76.png build/Release-iphonesimulator/rhorunner.app/icon76.pngadbf21861649b941^6b0c22861649b941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/icon76.png0034eca5ddffdf42^1110"CpResource icon76.png build/Release-iphonesimulator/rhorunner.app/icon76.png    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/michaeltoews/workspace/test-4.2/project/iphone/icon76.png /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app36"701265EB-CBEA-45E5-9FE6-1D7CEC2DCFA4-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CGenerateDSYMFile /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner
+s424220295.195524
+e424220296.881655
+r1
+xGenerateDSYMFile
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Generate /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM119"GenerateDSYMFile build/Release-iphonesimulator/rhorunner.app.dSYM build/Release-iphonesimulator/rhorunner.app/rhorunnerf72232871649b941^39b7e1881649b941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM0034eca5ddffdf42^1066"GenerateDSYMFile build/Release-iphonesimulator/rhorunner.app.dSYM build/Release-iphonesimulator/rhorunner.app/rhorunner    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app.dSYM36"92C1C325-24DC-4F70-8750-44A48B6DE612-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CLd /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner normal i386
+s424220294.421575
+e424220295.194481
+r1
+xLd
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner
+xnormal
+xi386
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner.LinkFileList
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/rhodeslibs.txt
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/app_build_configs.o
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/extensions.o
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/main.o
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/CApplicationDelegate.o
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libCoreAPI.a
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libRhoconnect-client.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/ExternalAccessory.framework/ExternalAccessory
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/build/Release-iphonesimulator/libRhodes.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libiconv.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libsqlite3.0.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libz.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/EventKit.framework/EventKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libc++abi.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/GameKit.framework/Frameworks/GameCenterFoundation.framework/GameCenterFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/GameKit.framework/Frameworks/GameCenterUI.framework/GameCenterUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/GameKit.framework/Frameworks/LegacyGameKit.framework/LegacyGameKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+old: warning: directory not found for option '-L/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphoneos'
+old: warning: direct access in rho::LogMessage::isEnabled() const to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::LogMessage::isEnabled() const to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::LogMessage::addPrefix(char const*, int) to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::LogMessage::addPrefix(char const*, int) to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CRhoThread::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CRhoThread::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CSystem::getThreadID() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CSystem::getThreadID() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoSendLogCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoSendLogCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoCallbackCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+old: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoCallbackCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner68"Ld build/Release-iphonesimulator/rhorunner.app/rhorunner normal i3860c056c861649b941^4bca31871649b941^-3869"ld: warning: directory not found for option '-L/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphoneos'ld: warning: direct access in rho::LogMessage::isEnabled() const to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::LogMessage::isEnabled() const to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::LogMessage::addPrefix(char const*, int) to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::LogMessage::addPrefix(char const*, int) to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CRhoThread::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CRhoThread::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CSystem::getThreadID() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CSystem::getThreadID() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoSendLogCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoSendLogCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoCallbackCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.ld: warning: direct access in rho::common::CRhoCallInThread<rho::common::CRhoCallbackCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.13(21%IDEActivityLogMessage2@111"Directory not found for option '-L/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphoneos'-424220294#0#125#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@283"Direct access in rho::LogMessage::isEnabled() const to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#125#297#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@283"Direct access in rho::LogMessage::isEnabled() const to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#422#297#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@293"Direct access in rho::LogMessage::addPrefix(char const*, int) to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#719#307#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@293"Direct access in rho::LogMessage::addPrefix(char const*, int) to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#1026#307#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@285"Direct access in rho::common::CRhoThread::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#1333#299#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@285"Direct access in rho::common::CRhoThread::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#1632#299#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@284"Direct access in rho::common::CSystem::getThreadID() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#1931#298#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@284"Direct access in rho::common::CSystem::getThreadID() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#2229#298#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@321"Direct access in rho::common::CRhoCallInThread<rho::common::CRhoSendLogCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#2527#335#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@321"Direct access in rho::common::CRhoCallInThread<rho::common::CRhoSendLogCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#2862#335#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@322"Direct access in rho::common::CRhoCallInThread<rho::common::CRhoCallbackCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#3197#336#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--2@322"Direct access in rho::common::CRhoCallInThread<rho::common::CRhoCallbackCall>::runObject() to global weak symbol rho::common::CSystem::getThreadID()::lacks_gettid means the weak symbol cannot be overridden at runtime. This was likely caused by different translation units being compiled with different visibility settings.-424220295#3533#336#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#1#--2536"Ld build/Release-iphonesimulator/rhorunner.app/rhorunner normal i386    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator -L/Users/michaeltoews/workspace/test-4.2/project/iphone -L/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphoneos -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator -filelist /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -filelist rhodeslibs.txt -Xlinker -no_implicit_dylibs -fobjc-link-runtime -mios-simulator-version-min=6.0 -framework ExternalAccessory /Users/michaeltoews/workspace/test-4.2/project/iphone/Rhodes/build/Release-iphonesimulator/libRhodes.a -lstdc++ -framework MediaPlayer -framework MobileCoreServices -framework CoreMotion -framework CoreMedia -framework CoreVideo -liconv -framework Foundation -framework UIKit -framework CoreFoundation -framework CoreLocation -lsqlite3.0 -framework AddressBook -framework SystemConfiguration -framework AudioToolbox -framework AVFoundation -framework CoreGraphics -lz -framework MapKit -framework CFNetwork -framework GameKit -framework Security -framework QuartzCore -framework EventKit -Xlinker -dependency_info -Xlinker /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner_dependency_info.dat -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhorunner36"2095BBEA-012C-43CC-B370-06AB8D7CE2E2-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CPhaseScriptExecution Copy\ RhoBundle /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh
+s424220294.052557
+e424220294.121967
+r1
+xPhaseScriptExecution
+xCopy RhoBundle
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh
+oCreate dir /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app
+orm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/apps
+orm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/db
+orm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/hash
+orm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/lib
+orm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/name
+orm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhofilelist.txt
+ocp -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/bin/RhoBundle/* /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Run custom shell script 'Copy RhoBundle'130"PhaseScriptExecution Copy\ RhoBundle build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh59da0d861649b941^263a1f861649b941^-952"Create dir /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.apprm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/appsrm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/dbrm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/hashrm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/librm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/namerm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhofilelist.txtcp -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/bin/RhoBundle/* /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app8(21%IDEActivityLogMessage2@109"Create dir /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app-424220294#0#109#-0#-----2@110"rm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/apps-424220294#109#110#-0#-----2@108"rm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/db-424220294#219#108#-0#-----2@110"rm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/hash-424220294#327#110#-0#-----2@109"rm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/lib-424220294#437#109#-0#-----2@110"rm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/name-424220294#546#110#-0#-----2@121"rm -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/rhofilelist.txt-424220294#656#121#-0#-----2@175"cp -Rf /Users/michaeltoews/workspace/test-4.2/project/iphone/bin/RhoBundle/* /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app-424220294#777#175#-0#-----0#0#1#--22317"PhaseScriptExecution Copy\ RhoBundle build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export ACTION=build    export AD_HOC_CODE_SIGNING_ALLOWED=NO    export ALTERNATE_GROUP=staff    export ALTERNATE_MODE=u+w,go-w,a+rX    export ALTERNATE_OWNER=michaeltoews    export ALWAYS_SEARCH_USER_PATHS=NO    export ALWAYS_USE_SEPARATE_HEADERMAPS=YES    export APPLE_INTERNAL_DEVELOPER_DIR=/AppleInternal/Developer    export APPLE_INTERNAL_DIR=/AppleInternal    export APPLE_INTERNAL_DOCUMENTATION_DIR=/AppleInternal/Documentation    export APPLE_INTERNAL_LIBRARY_DIR=/AppleInternal/Library    export APPLE_INTERNAL_TOOLS=/AppleInternal/Developer/Tools    export APPLY_RULES_IN_COPY_FILES=NO    export ARCHS=i386    export ARCHS_STANDARD="i386 x86_64"    export ARCHS_STANDARD_32_64_BIT="i386 x86_64"    export ARCHS_STANDARD_32_BIT=i386    export ARCHS_STANDARD_64_BIT=x86_64    export ARCHS_STANDARD_INCLUDING_64_BIT="i386 x86_64"    export AVAILABLE_PLATFORMS="iphonesimulator macosx iphoneos"    export BUILD_COMPONENTS="headers build"    export BUILD_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export BUILD_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export BUILD_STYLE=    export BUILD_VARIANTS=normal    export BUILT_PRODUCTS_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export CACHE_ROOT=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CCHROOT=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CHMOD=/bin/chmod    export CHOWN=/usr/sbin/chown    export CLANG_CXX_LANGUAGE_STANDARD=compiler-default    export CLANG_CXX_LIBRARY=libstdc++    export CLASS_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/JavaClasses    export CLEAN_PRECOMPS=YES    export CLONE_HEADERS=NO    export CODESIGNING_FOLDER_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app    export CODE_SIGNING_ALLOWED=NO    export CODE_SIGN_CONTEXT_CLASS=XCiPhoneSimulatorCodeSignContext    export CODE_SIGN_IDENTITY="iPhone Developer"    export COLOR_DIAGNOSTICS=NO    export COMBINE_HIDPI_IMAGES=NO    export COMMAND_MODE=legacy    export COMPOSITE_SDK_DIRS=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/CompositeSDKs    export COMPRESS_PNG_FILES=NO    export CONFIGURATION=Release    export CONFIGURATION_BUILD_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export CONFIGURATION_TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator    export CONTENTS_FOLDER_PATH=rhorunner.app    export COPYING_PRESERVES_HFS_DATA=NO    export COPY_PHASE_STRIP=YES    export COPY_RESOURCES_FROM_STATIC_FRAMEWORKS=YES    export CP=/bin/cp    export CREATE_INFOPLIST_SECTION_IN_BINARY=NO    export CURRENT_ARCH=i386    export CURRENT_VARIANT=normal    export DEAD_CODE_STRIPPING=NO    export DEBUGGING_SYMBOLS=YES    export DEBUG_INFORMATION_FORMAT=dwarf-with-dsym    export DEFAULT_COMPILER=com.apple.compilers.llvm.clang.1_0    export DEFAULT_KEXT_INSTALL_PATH=/System/Library/Extensions    export DEPLOYMENT_LOCATION=NO    export DEPLOYMENT_POSTPROCESSING=NO    export DERIVED_FILES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources    export DERIVED_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources    export DERIVED_SOURCES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources    export DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export DEVELOPER_FRAMEWORKS_DIR=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_FRAMEWORKS_DIR_QUOTED=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/Developer/Library    export DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    export DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Tools    export DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export DEVELOPMENT_LANGUAGE=English    export DOCUMENTATION_FOLDER_PATH=rhorunner.app/English.lproj/Documentation    export DO_HEADER_SCANNING_IN_JAM=NO    export DSTROOT=/tmp/Test42.dst    export DT_TOOLCHAIN_DIR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    export DWARF_DSYM_FILE_NAME=rhorunner.app.dSYM    export DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT=NO    export DWARF_DSYM_FOLDER_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export EFFECTIVE_PLATFORM_NAME=-iphonesimulator    export ENABLE_HEADER_DEPENDENCIES=YES    export EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS=".DS_Store .svn .git .hg CVS"    export EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES="*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    export EXECUTABLES_FOLDER_PATH=rhorunner.app/Executables    export EXECUTABLE_FOLDER_PATH=rhorunner.app    export EXECUTABLE_NAME=rhorunner    export EXECUTABLE_PATH=rhorunner.app/rhorunner    export EXTENSIONS_LDFLAGS="-filelist /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhodeslibs.txt"    export FILE_LIST=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects/LinkFileList    export FIXED_FILES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/FixedFiles    export FRAMEWORKS_FOLDER_PATH=rhorunner.app/Frameworks    export FRAMEWORK_FLAG_PREFIX=-framework    export FRAMEWORK_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator "    export FRAMEWORK_VERSION=A    export FULL_PRODUCT_NAME=rhorunner.app    export GCC3_VERSION=3.3    export GCC_C_LANGUAGE_STANDARD=c99    export GCC_DYNAMIC_NO_PIC=NO    export GCC_INLINES_ARE_PRIVATE_EXTERN=YES    export GCC_OBJC_LEGACY_DISPATCH=YES    export GCC_PFE_FILE_C_DIALECTS="c objective-c c++ objective-c++"    export GCC_PRECOMPILE_PREFIX_HEADER=YES    export GCC_PREFIX_HEADER=rhorunner_Prefix.pch    export GCC_SYMBOLS_PRIVATE_EXTERN=YES    export GCC_TREAT_WARNINGS_AS_ERRORS=NO    export GCC_VERSION=com.apple.compilers.llvm.clang.1_0    export GCC_VERSION_IDENTIFIER=com_apple_compilers_llvm_clang_1_0    export GCC_WARN_ABOUT_RETURN_TYPE=YES    export GCC_WARN_UNUSED_VARIABLE=YES    export GENERATE_MASTER_OBJECT_FILE=NO    export GENERATE_PKGINFO_FILE=YES    export GENERATE_PROFILING_CODE=NO    export GID=20    export GROUP=staff    export HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT=YES    export HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES=YES    export HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS=YES    export HEADERMAP_INCLUDES_PROJECT_HEADERS=YES    export HEADER_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include ../shared"    export ICONV=/usr/bin/iconv    export INFOPLIST_EXPAND_BUILD_SETTINGS=YES    export INFOPLIST_FILE=Info.plist    export INFOPLIST_OUTPUT_FORMAT=binary    export INFOPLIST_PATH=rhorunner.app/Info.plist    export INFOPLIST_PREPROCESS=NO    export INFOSTRINGS_PATH=rhorunner.app/English.lproj/InfoPlist.strings    export INSTALL_DIR=/tmp/Test42.dst/Applications    export INSTALL_GROUP=staff    export INSTALL_MODE_FLAG=u+w,go-w,a+rX    export INSTALL_OWNER=michaeltoews    export INSTALL_PATH=/Applications    export INSTALL_ROOT=/tmp/Test42.dst    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export JAVAC_DEFAULT_FLAGS="-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    export JAVA_APP_STUB=/System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    export JAVA_ARCHIVE_CLASSES=YES    export JAVA_ARCHIVE_TYPE=JAR    export JAVA_COMPILER=/usr/bin/javac    export JAVA_FOLDER_PATH=rhorunner.app/Java    export JAVA_FRAMEWORK_RESOURCES_DIRS=Resources    export JAVA_JAR_FLAGS=cv    export JAVA_SOURCE_SUBDIR=.    export JAVA_USE_DEPENDENCIES=YES    export JAVA_ZIP_FLAGS=-urg    export JIKES_DEFAULT_FLAGS="+E +OLDCSO"    export KEEP_PRIVATE_EXTERNS=NO    export LD_DEPENDENCY_INFO_FILE=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner_dependency_info.dat    export LD_GENERATE_MAP_FILE=NO    export LD_MAP_FILE_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-LinkMap-normal-i386.txt    export LD_NO_PIE=NO    export LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER=YES    export LEGACY_DEVELOPER_DIR=/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    export LEX=lex    export LIBRARY_FLAG_NOSPACE=YES    export LIBRARY_FLAG_PREFIX=-l    export LIBRARY_KEXT_INSTALL_PATH=/Library/Extensions    export LIBRARY_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator  /Users/michaeltoews/workspace/test-4.2/project/iphone /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphoneos"    export LINKER_DISPLAYS_MANGLED_NAMES=NO    export LINK_FILE_LIST_normal_i386=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner.LinkFileList    export LINK_WITH_STANDARD_LIBRARIES=YES    export LOCALIZED_RESOURCES_FOLDER_PATH=rhorunner.app/English.lproj    export LOCAL_ADMIN_APPS_DIR=/Applications/Utilities    export LOCAL_APPS_DIR=/Applications    export LOCAL_DEVELOPER_DIR=/Library/Developer    export LOCAL_LIBRARY_DIR=/Library    export MACH_O_TYPE=mh_execute    export MACOSX_DEPLOYMENT_TARGET=10.6    export MAC_OS_X_PRODUCT_BUILD_VERSION=13C1021    export MAC_OS_X_VERSION_ACTUAL=1092    export MAC_OS_X_VERSION_MAJOR=1090    export MAC_OS_X_VERSION_MINOR=0902    export NATIVE_ARCH=i386    export NATIVE_ARCH_32_BIT=i386    export NATIVE_ARCH_64_BIT=x86_64    export NATIVE_ARCH_ACTUAL=x86_64    export NO_COMMON=YES    export OBJC_ABI_VERSION=2    export OBJECT_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects    export OBJECT_FILE_DIR_normal=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal    export OBJROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export ONLY_ACTIVE_ARCH=NO    export OPTIMIZATION_LEVEL=0    export OS=MACOS    export OSAC=/usr/bin/osacompile    export OTHER_LDFLAGS="-all_load -ObjC -filelist rhodeslibs.txt"    export PACKAGE_TYPE=com.apple.package-type.wrapper.application    export PASCAL_STRINGS=YES    export PATH="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    export PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES="/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    export PBDEVELOPMENTPLIST_PATH=rhorunner.app/pbdevelopment.plist    export PFE_FILE_C_DIALECTS="c objective-c"    export PKGINFO_FILE_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/PkgInfo    export PKGINFO_PATH=rhorunner.app/PkgInfo    export PLATFORM_DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    export PLATFORM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    export PLATFORM_DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    export PLATFORM_DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    export PLATFORM_DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    export PLATFORM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    export PLATFORM_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    export PLATFORM_NAME=iphonesimulator    export PLATFORM_PREFERRED_ARCH=i386    export PLATFORM_PRODUCT_BUILD_VERSION=11D167    export PLATFORM_VERSION_AVAILABILITY_H_FORMAT=70000    export PLIST_FILE_OUTPUT_FORMAT=binary    export PLUGINS_FOLDER_PATH=rhorunner.app/PlugIns    export PREBINDING=NO    export PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR=YES    export PRECOMP_DESTINATION_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/PrefixHeaders    export PRESERVE_DEAD_CODE_INITS_AND_TERMS=NO    export PRIVATE_HEADERS_FOLDER_PATH=rhorunner.app/PrivateHeaders    export PRODUCT_NAME=rhorunner    export PRODUCT_SETTINGS_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist    export PRODUCT_TYPE=com.apple.product-type.application    export PROFILING_CODE=NO    export PROJECT=Test42    export PROJECT_DERIVED_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/DerivedSources    export PROJECT_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone    export PROJECT_FILE_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/Test42.xcodeproj    export PROJECT_NAME=Test42    export PROJECT_TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build    export PROJECT_TEMP_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export PUBLIC_HEADERS_FOLDER_PATH=rhorunner.app/Headers    export RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS=YES    export REMOVE_CVS_FROM_RESOURCES=YES    export REMOVE_GIT_FROM_RESOURCES=YES    export REMOVE_HG_FROM_RESOURCES=YES    export REMOVE_SVN_FROM_RESOURCES=YES    export REZ_COLLECTOR_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/ResourceManagerResources    export REZ_OBJECTS_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/ResourceManagerResources/Objects    export REZ_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator "    export SCAN_ALL_SOURCE_FILES_FOR_INCLUDES=NO    export SCRIPTS_FOLDER_PATH=rhorunner.app/Scripts    export SCRIPT_INPUT_FILE_COUNT=0    export SCRIPT_OUTPUT_FILE_COUNT=0    export SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    export SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    export SDK_NAME=iphonesimulator7.0    export SDK_PRODUCT_BUILD_VERSION=11B507    export SED=/usr/bin/sed    export SEPARATE_STRIP=NO    export SEPARATE_SYMBOL_EDIT=NO    export SET_DIR_MODE_OWNER_GROUP=YES    export SET_FILE_MODE_OWNER_GROUP=NO    export SHALLOW_BUNDLE=YES    export SHARED_DERIVED_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/DerivedSources    export SHARED_FRAMEWORKS_FOLDER_PATH=rhorunner.app/SharedFrameworks    export SHARED_PRECOMPS_DIR=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders    export SHARED_SUPPORT_FOLDER_PATH=rhorunner.app/SharedSupport    export SKIP_INSTALL=NO    export SOURCE_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone    export SRCROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone    export STRINGS_FILE_OUTPUT_ENCODING=binary    export STRIP_INSTALLED_PRODUCT=YES    export STRIP_STYLE=all    export SUPPORTED_DEVICE_FAMILIES="1 2"    export SUPPORTED_PLATFORMS="iphonesimulator iphoneos"    export SYMROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export SYSTEM_ADMIN_APPS_DIR=/Applications/Utilities    export SYSTEM_APPS_DIR=/Applications    export SYSTEM_CORE_SERVICES_DIR=/System/Library/CoreServices    export SYSTEM_DEMOS_DIR=/Applications/Extras    export SYSTEM_DEVELOPER_APPS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export SYSTEM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export SYSTEM_DEVELOPER_DEMOS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    export SYSTEM_DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export SYSTEM_DEVELOPER_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    export SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    export SYSTEM_DEVELOPER_JAVA_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    export SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    export SYSTEM_DEVELOPER_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    export SYSTEM_DEVELOPER_TOOLS=/Applications/Xcode.app/Contents/Developer/Tools    export SYSTEM_DEVELOPER_TOOLS_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    export SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    export SYSTEM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export SYSTEM_DEVELOPER_UTILITIES_DIR=/Applications/Xcode.app/Contents/Developer/Applications/Utilities    export SYSTEM_DOCUMENTATION_DIR=/Library/Documentation    export SYSTEM_KEXT_INSTALL_PATH=/System/Library/Extensions    export SYSTEM_LIBRARY_DIR=/System/Library    export TARGETED_DEVICE_FAMILY=1,2    export TARGETNAME=rhorunner    export TARGET_BUILD_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export TARGET_NAME=rhorunner    export TARGET_TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_FILES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export TOOLCHAINS=com.apple.dt.toolchain.XcodeDefault    export UID=501    export UNLOCALIZED_RESOURCES_FOLDER_PATH=rhorunner.app    export UNSTRIPPED_PRODUCT=NO    export USER=michaeltoews    export USER_APPS_DIR=/Users/michaeltoews/Applications    export USER_HEADER_SEARCH_PATHS=Rhodes    export USER_LIBRARY_DIR=/Users/michaeltoews/Library    export USE_DYNAMIC_NO_PIC=YES    export USE_HEADERMAP=YES    export USE_HEADER_SYMLINKS=NO    export VALIDATE_PRODUCT=NO    export VALID_ARCHS="armv7 i386"    export VERBOSE_PBXCP=NO    export VERSIONPLIST_PATH=rhorunner.app/version.plist    export VERSION_INFO_BUILDER=michaeltoews    export VERSION_INFO_FILE=rhorunner_vers.c    export VERSION_INFO_STRING="\"@(#)PROGRAM:rhorunner  PROJECT:Test42-\""    export WRAPPER_EXTENSION=app    export WRAPPER_NAME=rhorunner.app    export WRAPPER_SUFFIX=.app    export XCODE_APP_SUPPORT_DIR=/Applications/Xcode.app/Contents/Developer/Library/Xcode    export XCODE_PRODUCT_BUILD_VERSION=5B1008    export XCODE_VERSION_ACTUAL=0511    export XCODE_VERSION_MAJOR=0500    export XCODE_VERSION_MINOR=0510    export XPCSERVICES_FOLDER_PATH=rhorunner.app/XPCServices    export YACC=yacc    export arch=i386    export variant=normal    /bin/sh -c /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-BD4D7DCE10AE2DA4003DCE59.sh36"AFE9CECC-EA16-4146-9E15-6AD2873202DE-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CPhaseScriptExecution Move\ alerts\ to\ root\ of\ app /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.sh
+s424220294.134582
+e424220294.145444
+r1
+xPhaseScriptExecution
+xMove alerts to root of app
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.sh
+oAlerts folder is not found...
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Run custom shell script 'Move alerts to root of app'146"PhaseScriptExecution Move\ alerts\ to\ root\ of\ app build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.shcae222861649b941^643d25861649b941^-30"Alerts folder is not found...1(21%IDEActivityLogMessage2@30"Alerts folder is not found...-424220294#0#30#-0#-----0#0#1#--22333"PhaseScriptExecution Move\ alerts\ to\ root\ of\ app build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.sh    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export ACTION=build    export AD_HOC_CODE_SIGNING_ALLOWED=NO    export ALTERNATE_GROUP=staff    export ALTERNATE_MODE=u+w,go-w,a+rX    export ALTERNATE_OWNER=michaeltoews    export ALWAYS_SEARCH_USER_PATHS=NO    export ALWAYS_USE_SEPARATE_HEADERMAPS=YES    export APPLE_INTERNAL_DEVELOPER_DIR=/AppleInternal/Developer    export APPLE_INTERNAL_DIR=/AppleInternal    export APPLE_INTERNAL_DOCUMENTATION_DIR=/AppleInternal/Documentation    export APPLE_INTERNAL_LIBRARY_DIR=/AppleInternal/Library    export APPLE_INTERNAL_TOOLS=/AppleInternal/Developer/Tools    export APPLY_RULES_IN_COPY_FILES=NO    export ARCHS=i386    export ARCHS_STANDARD="i386 x86_64"    export ARCHS_STANDARD_32_64_BIT="i386 x86_64"    export ARCHS_STANDARD_32_BIT=i386    export ARCHS_STANDARD_64_BIT=x86_64    export ARCHS_STANDARD_INCLUDING_64_BIT="i386 x86_64"    export AVAILABLE_PLATFORMS="iphonesimulator macosx iphoneos"    export BUILD_COMPONENTS="headers build"    export BUILD_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export BUILD_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export BUILD_STYLE=    export BUILD_VARIANTS=normal    export BUILT_PRODUCTS_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export CACHE_ROOT=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CCHROOT=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CHMOD=/bin/chmod    export CHOWN=/usr/sbin/chown    export CLANG_CXX_LANGUAGE_STANDARD=compiler-default    export CLANG_CXX_LIBRARY=libstdc++    export CLASS_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/JavaClasses    export CLEAN_PRECOMPS=YES    export CLONE_HEADERS=NO    export CODESIGNING_FOLDER_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app    export CODE_SIGNING_ALLOWED=NO    export CODE_SIGN_CONTEXT_CLASS=XCiPhoneSimulatorCodeSignContext    export CODE_SIGN_IDENTITY="iPhone Developer"    export COLOR_DIAGNOSTICS=NO    export COMBINE_HIDPI_IMAGES=NO    export COMMAND_MODE=legacy    export COMPOSITE_SDK_DIRS=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/CompositeSDKs    export COMPRESS_PNG_FILES=NO    export CONFIGURATION=Release    export CONFIGURATION_BUILD_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export CONFIGURATION_TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator    export CONTENTS_FOLDER_PATH=rhorunner.app    export COPYING_PRESERVES_HFS_DATA=NO    export COPY_PHASE_STRIP=YES    export COPY_RESOURCES_FROM_STATIC_FRAMEWORKS=YES    export CP=/bin/cp    export CREATE_INFOPLIST_SECTION_IN_BINARY=NO    export CURRENT_ARCH=i386    export CURRENT_VARIANT=normal    export DEAD_CODE_STRIPPING=NO    export DEBUGGING_SYMBOLS=YES    export DEBUG_INFORMATION_FORMAT=dwarf-with-dsym    export DEFAULT_COMPILER=com.apple.compilers.llvm.clang.1_0    export DEFAULT_KEXT_INSTALL_PATH=/System/Library/Extensions    export DEPLOYMENT_LOCATION=NO    export DEPLOYMENT_POSTPROCESSING=NO    export DERIVED_FILES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources    export DERIVED_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources    export DERIVED_SOURCES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources    export DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export DEVELOPER_FRAMEWORKS_DIR=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_FRAMEWORKS_DIR_QUOTED=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/Developer/Library    export DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    export DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Tools    export DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export DEVELOPMENT_LANGUAGE=English    export DOCUMENTATION_FOLDER_PATH=rhorunner.app/English.lproj/Documentation    export DO_HEADER_SCANNING_IN_JAM=NO    export DSTROOT=/tmp/Test42.dst    export DT_TOOLCHAIN_DIR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    export DWARF_DSYM_FILE_NAME=rhorunner.app.dSYM    export DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT=NO    export DWARF_DSYM_FOLDER_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export EFFECTIVE_PLATFORM_NAME=-iphonesimulator    export ENABLE_HEADER_DEPENDENCIES=YES    export EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS=".DS_Store .svn .git .hg CVS"    export EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES="*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    export EXECUTABLES_FOLDER_PATH=rhorunner.app/Executables    export EXECUTABLE_FOLDER_PATH=rhorunner.app    export EXECUTABLE_NAME=rhorunner    export EXECUTABLE_PATH=rhorunner.app/rhorunner    export EXTENSIONS_LDFLAGS="-filelist /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhodeslibs.txt"    export FILE_LIST=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects/LinkFileList    export FIXED_FILES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/FixedFiles    export FRAMEWORKS_FOLDER_PATH=rhorunner.app/Frameworks    export FRAMEWORK_FLAG_PREFIX=-framework    export FRAMEWORK_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator "    export FRAMEWORK_VERSION=A    export FULL_PRODUCT_NAME=rhorunner.app    export GCC3_VERSION=3.3    export GCC_C_LANGUAGE_STANDARD=c99    export GCC_DYNAMIC_NO_PIC=NO    export GCC_INLINES_ARE_PRIVATE_EXTERN=YES    export GCC_OBJC_LEGACY_DISPATCH=YES    export GCC_PFE_FILE_C_DIALECTS="c objective-c c++ objective-c++"    export GCC_PRECOMPILE_PREFIX_HEADER=YES    export GCC_PREFIX_HEADER=rhorunner_Prefix.pch    export GCC_SYMBOLS_PRIVATE_EXTERN=YES    export GCC_TREAT_WARNINGS_AS_ERRORS=NO    export GCC_VERSION=com.apple.compilers.llvm.clang.1_0    export GCC_VERSION_IDENTIFIER=com_apple_compilers_llvm_clang_1_0    export GCC_WARN_ABOUT_RETURN_TYPE=YES    export GCC_WARN_UNUSED_VARIABLE=YES    export GENERATE_MASTER_OBJECT_FILE=NO    export GENERATE_PKGINFO_FILE=YES    export GENERATE_PROFILING_CODE=NO    export GID=20    export GROUP=staff    export HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT=YES    export HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES=YES    export HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS=YES    export HEADERMAP_INCLUDES_PROJECT_HEADERS=YES    export HEADER_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include ../shared"    export ICONV=/usr/bin/iconv    export INFOPLIST_EXPAND_BUILD_SETTINGS=YES    export INFOPLIST_FILE=Info.plist    export INFOPLIST_OUTPUT_FORMAT=binary    export INFOPLIST_PATH=rhorunner.app/Info.plist    export INFOPLIST_PREPROCESS=NO    export INFOSTRINGS_PATH=rhorunner.app/English.lproj/InfoPlist.strings    export INSTALL_DIR=/tmp/Test42.dst/Applications    export INSTALL_GROUP=staff    export INSTALL_MODE_FLAG=u+w,go-w,a+rX    export INSTALL_OWNER=michaeltoews    export INSTALL_PATH=/Applications    export INSTALL_ROOT=/tmp/Test42.dst    export IPHONEOS_DEPLOYMENT_TARGET=6.0    export JAVAC_DEFAULT_FLAGS="-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    export JAVA_APP_STUB=/System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    export JAVA_ARCHIVE_CLASSES=YES    export JAVA_ARCHIVE_TYPE=JAR    export JAVA_COMPILER=/usr/bin/javac    export JAVA_FOLDER_PATH=rhorunner.app/Java    export JAVA_FRAMEWORK_RESOURCES_DIRS=Resources    export JAVA_JAR_FLAGS=cv    export JAVA_SOURCE_SUBDIR=.    export JAVA_USE_DEPENDENCIES=YES    export JAVA_ZIP_FLAGS=-urg    export JIKES_DEFAULT_FLAGS="+E +OLDCSO"    export KEEP_PRIVATE_EXTERNS=NO    export LD_DEPENDENCY_INFO_FILE=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner_dependency_info.dat    export LD_GENERATE_MAP_FILE=NO    export LD_MAP_FILE_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-LinkMap-normal-i386.txt    export LD_NO_PIE=NO    export LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER=YES    export LEGACY_DEVELOPER_DIR=/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    export LEX=lex    export LIBRARY_FLAG_NOSPACE=YES    export LIBRARY_FLAG_PREFIX=-l    export LIBRARY_KEXT_INSTALL_PATH=/Library/Extensions    export LIBRARY_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator  /Users/michaeltoews/workspace/test-4.2/project/iphone /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphoneos"    export LINKER_DISPLAYS_MANGLED_NAMES=NO    export LINK_FILE_LIST_normal_i386=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal/i386/rhorunner.LinkFileList    export LINK_WITH_STANDARD_LIBRARIES=YES    export LOCALIZED_RESOURCES_FOLDER_PATH=rhorunner.app/English.lproj    export LOCAL_ADMIN_APPS_DIR=/Applications/Utilities    export LOCAL_APPS_DIR=/Applications    export LOCAL_DEVELOPER_DIR=/Library/Developer    export LOCAL_LIBRARY_DIR=/Library    export MACH_O_TYPE=mh_execute    export MACOSX_DEPLOYMENT_TARGET=10.6    export MAC_OS_X_PRODUCT_BUILD_VERSION=13C1021    export MAC_OS_X_VERSION_ACTUAL=1092    export MAC_OS_X_VERSION_MAJOR=1090    export MAC_OS_X_VERSION_MINOR=0902    export NATIVE_ARCH=i386    export NATIVE_ARCH_32_BIT=i386    export NATIVE_ARCH_64_BIT=x86_64    export NATIVE_ARCH_ACTUAL=x86_64    export NO_COMMON=YES    export OBJC_ABI_VERSION=2    export OBJECT_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects    export OBJECT_FILE_DIR_normal=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Objects-normal    export OBJROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export ONLY_ACTIVE_ARCH=NO    export OPTIMIZATION_LEVEL=0    export OS=MACOS    export OSAC=/usr/bin/osacompile    export OTHER_LDFLAGS="-all_load -ObjC -filelist rhodeslibs.txt"    export PACKAGE_TYPE=com.apple.package-type.wrapper.application    export PASCAL_STRINGS=YES    export PATH="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    export PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES="/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    export PBDEVELOPMENTPLIST_PATH=rhorunner.app/pbdevelopment.plist    export PFE_FILE_C_DIALECTS="c objective-c"    export PKGINFO_FILE_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/PkgInfo    export PKGINFO_PATH=rhorunner.app/PkgInfo    export PLATFORM_DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    export PLATFORM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    export PLATFORM_DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library    export PLATFORM_DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    export PLATFORM_DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    export PLATFORM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr    export PLATFORM_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform    export PLATFORM_NAME=iphonesimulator    export PLATFORM_PREFERRED_ARCH=i386    export PLATFORM_PRODUCT_BUILD_VERSION=11D167    export PLATFORM_VERSION_AVAILABILITY_H_FORMAT=70000    export PLIST_FILE_OUTPUT_FORMAT=binary    export PLUGINS_FOLDER_PATH=rhorunner.app/PlugIns    export PREBINDING=NO    export PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR=YES    export PRECOMP_DESTINATION_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/PrefixHeaders    export PRESERVE_DEAD_CODE_INITS_AND_TERMS=NO    export PRIVATE_HEADERS_FOLDER_PATH=rhorunner.app/PrivateHeaders    export PRODUCT_NAME=rhorunner    export PRODUCT_SETTINGS_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist    export PRODUCT_TYPE=com.apple.product-type.application    export PROFILING_CODE=NO    export PROJECT=Test42    export PROJECT_DERIVED_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/DerivedSources    export PROJECT_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone    export PROJECT_FILE_PATH=/Users/michaeltoews/workspace/test-4.2/project/iphone/Test42.xcodeproj    export PROJECT_NAME=Test42    export PROJECT_TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build    export PROJECT_TEMP_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export PUBLIC_HEADERS_FOLDER_PATH=rhorunner.app/Headers    export RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS=YES    export REMOVE_CVS_FROM_RESOURCES=YES    export REMOVE_GIT_FROM_RESOURCES=YES    export REMOVE_HG_FROM_RESOURCES=YES    export REMOVE_SVN_FROM_RESOURCES=YES    export REZ_COLLECTOR_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/ResourceManagerResources    export REZ_OBJECTS_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/ResourceManagerResources/Objects    export REZ_SEARCH_PATHS="/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator "    export SCAN_ALL_SOURCE_FILES_FOR_INCLUDES=NO    export SCRIPTS_FOLDER_PATH=rhorunner.app/Scripts    export SCRIPT_INPUT_FILE_COUNT=0    export SCRIPT_OUTPUT_FILE_COUNT=0    export SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    export SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk    export SDK_NAME=iphonesimulator7.0    export SDK_PRODUCT_BUILD_VERSION=11B507    export SED=/usr/bin/sed    export SEPARATE_STRIP=NO    export SEPARATE_SYMBOL_EDIT=NO    export SET_DIR_MODE_OWNER_GROUP=YES    export SET_FILE_MODE_OWNER_GROUP=NO    export SHALLOW_BUNDLE=YES    export SHARED_DERIVED_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/DerivedSources    export SHARED_FRAMEWORKS_FOLDER_PATH=rhorunner.app/SharedFrameworks    export SHARED_PRECOMPS_DIR=/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders    export SHARED_SUPPORT_FOLDER_PATH=rhorunner.app/SharedSupport    export SKIP_INSTALL=NO    export SOURCE_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone    export SRCROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone    export STRINGS_FILE_OUTPUT_ENCODING=binary    export STRIP_INSTALLED_PRODUCT=YES    export STRIP_STYLE=all    export SUPPORTED_DEVICE_FAMILIES="1 2"    export SUPPORTED_PLATFORMS="iphonesimulator iphoneos"    export SYMROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export SYSTEM_ADMIN_APPS_DIR=/Applications/Utilities    export SYSTEM_APPS_DIR=/Applications    export SYSTEM_CORE_SERVICES_DIR=/System/Library/CoreServices    export SYSTEM_DEMOS_DIR=/Applications/Extras    export SYSTEM_DEVELOPER_APPS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export SYSTEM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export SYSTEM_DEVELOPER_DEMOS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    export SYSTEM_DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export SYSTEM_DEVELOPER_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    export SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    export SYSTEM_DEVELOPER_JAVA_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    export SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    export SYSTEM_DEVELOPER_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    export SYSTEM_DEVELOPER_TOOLS=/Applications/Xcode.app/Contents/Developer/Tools    export SYSTEM_DEVELOPER_TOOLS_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    export SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    export SYSTEM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export SYSTEM_DEVELOPER_UTILITIES_DIR=/Applications/Xcode.app/Contents/Developer/Applications/Utilities    export SYSTEM_DOCUMENTATION_DIR=/Library/Documentation    export SYSTEM_KEXT_INSTALL_PATH=/System/Library/Extensions    export SYSTEM_LIBRARY_DIR=/System/Library    export TARGETED_DEVICE_FAMILY=1,2    export TARGETNAME=rhorunner    export TARGET_BUILD_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator    export TARGET_NAME=rhorunner    export TARGET_TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_FILES_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_FILE_DIR=/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build    export TEMP_ROOT=/Users/michaeltoews/workspace/test-4.2/project/iphone/build    export TOOLCHAINS=com.apple.dt.toolchain.XcodeDefault    export UID=501    export UNLOCALIZED_RESOURCES_FOLDER_PATH=rhorunner.app    export UNSTRIPPED_PRODUCT=NO    export USER=michaeltoews    export USER_APPS_DIR=/Users/michaeltoews/Applications    export USER_HEADER_SEARCH_PATHS=Rhodes    export USER_LIBRARY_DIR=/Users/michaeltoews/Library    export USE_DYNAMIC_NO_PIC=YES    export USE_HEADERMAP=YES    export USE_HEADER_SYMLINKS=NO    export VALIDATE_PRODUCT=NO    export VALID_ARCHS="armv7 i386"    export VERBOSE_PBXCP=NO    export VERSIONPLIST_PATH=rhorunner.app/version.plist    export VERSION_INFO_BUILDER=michaeltoews    export VERSION_INFO_FILE=rhorunner_vers.c    export VERSION_INFO_STRING="\"@(#)PROGRAM:rhorunner  PROJECT:Test42-\""    export WRAPPER_EXTENSION=app    export WRAPPER_NAME=rhorunner.app    export WRAPPER_SUFFIX=.app    export XCODE_APP_SUPPORT_DIR=/Applications/Xcode.app/Contents/Developer/Library/Xcode    export XCODE_PRODUCT_BUILD_VERSION=5B1008    export XCODE_VERSION_ACTUAL=0511    export XCODE_VERSION_MAJOR=0500    export XCODE_VERSION_MINOR=0510    export XPCSERVICES_FOLDER_PATH=rhorunner.app/XPCServices    export YACC=yacc    export arch=i386    export variant=normal    /bin/sh -c /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/Script-5C61F2BD1022321A0013E321.sh36"00A962D7-4758-4E2F-8563-94B2A0B17C5A-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CProcessInfoPlistFile /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Info.plist /Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist
+s424220294.049259
+e424220294.051760
+r1
+xProcessInfoPlistFile
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Info.plist
+x/Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Process /Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist86"ProcessInfoPlistFile build/Release-iphonesimulator/rhorunner.app/Info.plist Info.plista2b70c861649b941^96410d861649b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist0000000000000000^1105"ProcessInfoPlistFile build/Release-iphonesimulator/rhorunner.app/Info.plist Info.plist    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    builtin-infoPlistUtility /Users/michaeltoews/workspace/test-4.2/project/iphone/Info.plist -genpkginfo /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app/Info.plist36"08E5BBD7-25E3-42B7-80FA-9CFFBF17B41B-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s424220294.145933
+e424220294.158783
+r1
+xProcessPCH
+x/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch
+xrhorunner_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile rhorunner_Prefix.pch278"ProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler6d7525861649b941^59a528861649b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch0000000000000000^3674"ProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -mios-simulator-version-min=6.0 -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-generated-files.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-own-target-headers.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-all-target-headers.hmap -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-project-headers.hmap -iquoteRhodes -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include -I../shared -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources/i386 -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator --serialize-diagnostics /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.d -c /Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch -o /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-ghwkxlvsfhhdvibvkhrimdsigxem/rhorunner_Prefix.pch.pch36"2D96E256-FB18-4D9B-AFCA-84C4C09292D3-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424220294.146176
+e424220294.330337
+r1
+xProcessPCH
+x/var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch
+xrhorunner_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile rhorunner_Prefix.pch288"ProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7a8925861649b941^689254861649b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch0000000000000000^3931"ProcessPCH /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch rhorunner_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/michaeltoews/workspace/test-4.2/project/iphone    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/bin:/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545@global/bin:/Users/michaeltoews/.rvm/rubies/ruby-1.9.3-p545/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/michaeltoews/bin:/Users/michaeltoews/android-sdk/tools:/Users/michaeltoews/android-sdk/platform-tools:/Users/michaeltoews/android-sdk:/Users/michaeltoews/android-ndk:/Users/michaeltoews/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.0 -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-generated-files.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-own-target-headers.hmap -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-all-target-headers.hmap -iquote /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/rhorunner-project-headers.hmap -iquoteRhodes -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/include -I../shared -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources/i386 -I/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Test42.build/Release-iphonesimulator/rhorunner.build/DerivedSources -F/Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator --serialize-diagnostics /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.d -c /Users/michaeltoews/workspace/test-4.2/project/iphone/rhorunner_Prefix.pch -o /var/folders/45/hj_79rsd3tg_p0gs_gfs0dnc0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/rhorunner_Prefix-hbjwljrczyrrzvbuhzxditpohoje/rhorunner_Prefix.pch.pch36"077F7352-094C-432B-A6AA-C69B6BFC7EED-
+b9397EC04-2A46-4B2D-85AA-D79816C39CA3
+
+CTouch /Users/michaeltoews/workspace/test-4.2/project/iphone/build/Release-iphonesimulator/rhorunner.app
+r0
+

@@ -1,0 +1,2 @@
+/Users/michaeltoews/workspace/test-4.2/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libCoreAPI.a
+/Users/michaeltoews/workspace/test-4.2/project/iphone/build/rhorunner.build/Release-iphonesimulator/rhorunner.build/libRhoconnect-client.a

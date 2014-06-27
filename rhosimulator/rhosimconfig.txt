@@ -1,0 +1,8 @@
+rhodes_path='/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.18'
+app_version='1.0'
+app_name='test-4.2'
+reload_app_changes=0
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.18/lib/commonAPI/coreapi;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhodes-4.2.0.beta.18/lib/extensions/json;/Users/michaeltoews/.rvm/gems/ruby-1.9.3-p545/gems/rhoconnect-client-4.2.0.beta.18/lib/../ext/rhoconnect-client;
